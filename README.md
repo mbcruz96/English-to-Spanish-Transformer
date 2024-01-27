@@ -3,7 +3,7 @@
 - The model was trained for the downstream task of text-to-text language translation, specifically from english to spanish.
 - Most of the hyperparameters of the model architecture are identical to the specifications of the paper including.
 - Dataset: opus_books en-es 93k
-- **Hyper-parameters**
+**Hyper-parameters**
   - Epochs: 20
   - Learning rate: .001
   - Sequence length: 350
